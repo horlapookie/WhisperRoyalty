@@ -2,7 +2,7 @@ export const settings = {
     // Bot Configuration
     botName: 'Queen',
     version: '1.0',
-    prefix: '!',
+    prefix: '.',
 
     // Owner Configuration
     ownerNumber: '919356055210', // Replace with actual owner number
