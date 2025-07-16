@@ -6,7 +6,7 @@ export const settings = {
 
     // Owner Configuration
     ownerNumber: '919356055210', // Replace with actual owner number
-    ownerNumbers: ['919356055210@s.whatsapp.net'], // Multiple owner numbers for recognition
+    ownerNumbers: ['@s.whatsapp.net'], // Multiple owner numbers for recognition
 
     // Session Configuration (Manual Session)
     // To change session: Replace the base64 string below with your new session data
