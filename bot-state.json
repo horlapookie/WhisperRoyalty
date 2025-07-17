@@ -1,0 +1,18 @@
+{
+  "isOn": true,
+  "isPublic": false,
+  "autoViewStatus": true,
+  "autoReact": false,
+  "chatbotEnabled": false,
+  "autoTyping": false,
+  "autoRecording": false,
+  "autoReadMessage": false,
+  "autoReactStatus": true,
+  "autoStatusEmoji": "❤️",
+  "autoDeleteAlert": true,
+  "ownerJid": "2348107502377@s.whatsapp.net",
+  "ownerJids": [
+    "2348107502377@s.whatsapp.net"
+  ],
+  "bannedUsers": []
+}
