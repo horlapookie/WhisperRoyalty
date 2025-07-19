@@ -1,0 +1,34 @@
+
+{
+  "name": "yourhighness-whatsapp-bot",
+  "description": "Advanced WhatsApp Bot with AI capabilities",
+  "repository": "https://github.com/horlapookie/WhisperRoyalty",
+  "logo": "https://picsum.photos/300/300?random=1",
+  "keywords": ["whatsapp", "bot", "ai", "gemini", "baileys"],
+  "image": "heroku/nodejs",
+  "stack": "heroku-22",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "env": {
+    "NODE_ENV": {
+      "description": "Node environment",
+      "value": "production"
+    },
+    "GEMINI_API_KEY": {
+      "description": "Gemini AI API key",
+      "required": false
+    }
+  },
+  "scripts": {
+    "postdeploy": "echo 'Deployment completed successfully'"
+  }
+}

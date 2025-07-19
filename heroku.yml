@@ -1,0 +1,10 @@
+
+build:
+  docker:
+    web: Dockerfile
+release:
+  image: web
+  command:
+    - echo "Release phase"
+run:
+  web: node start-bot.js

@@ -1,0 +1,17 @@
+
+services:
+  - type: web
+    name: yourhighness-whatsapp-bot
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node start-bot.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: HOST
+        value: 0.0.0.0
+    autoDeploy: false
+    healthCheckPath: /health

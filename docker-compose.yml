@@ -1,0 +1,34 @@
+
+version: '3.8'
+
+services:
+  whatsapp-bot:
+    build: .
+    container_name: yourhighness-bot
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - PORT=8080
+      - HOST=0.0.0.0
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./session:/app/session
+      - ./data:/app/data
+    networks:
+      - bot-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+networks:
+  bot-network:
+    driver: bridge
+
+volumes:
+  session-data:
+  bot-data:
+</docker-compose.yml>

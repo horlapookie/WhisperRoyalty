@@ -1,0 +1,20 @@
+
+{
+  "version": 2,
+  "name": "yourhighness-whatsapp-bot",
+  "builds": [
+    {
+      "src": "start-bot.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/start-bot.js"
+    }
+  ],
+  "env": {
+    "NODE_ENV": "production"
+  }
+}

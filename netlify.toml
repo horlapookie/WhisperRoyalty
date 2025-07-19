@@ -1,0 +1,16 @@
+
+[build]
+  command = "npm install"
+  functions = "netlify/functions"
+  publish = "dist"
+
+[build.environment]
+  NODE_ENV = "production"
+
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/bot"
+  status = 200
+
+[functions]
+  node_bundler = "esbuild"
