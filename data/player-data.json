@@ -1,0 +1,1641 @@
+{
+  "playerPokemon": {
+    "182725474553986@lid": [
+      {
+        "name": "Lucario",
+        "type": "Fighting/Steel",
+        "rarity": "Rare",
+        "description": "An aura Pokemon that can sense the emotions of creatures over half a mile away.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/448.png",
+        "level": 32,
+        "maxHp": 125,
+        "hp": 125,
+        "attack": 84,
+        "defense": 77,
+        "speed": 87,
+        "exp": 139,
+        "expToNext": 3200,
+        "nature": "Bashful",
+        "moves": [
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Growl",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Leer",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752306440186.4778,
+        "spawner": "212472703266847@lid",
+        "spawnTime": 1752306440186,
+        "groupId": "120363402652229385@g.us",
+        "caughtAt": 1752306613572,
+        "trainerId": "182725474553986@lid",
+        "nickname": "Lucario",
+        "happiness": 50
+      },
+      {
+        "name": "Charmander",
+        "type": "Fire",
+        "rarity": "Common",
+        "description": "A fire lizard Pokemon. The flame on its tail shows its emotions.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/4.png",
+        "level": 28,
+        "maxHp": 78,
+        "hp": 78,
+        "attack": 58,
+        "defense": 59,
+        "speed": 36,
+        "exp": 0,
+        "expToNext": 2800,
+        "nature": "Quiet",
+        "moves": [
+          {
+            "name": "Ember",
+            "power": 40,
+            "type": "Fire",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Fire Spin",
+            "power": 35,
+            "type": "Fire",
+            "accuracy": 85
+          },
+          {
+            "name": "Flame Wheel",
+            "power": 60,
+            "type": "Fire",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752305245360.8018,
+        "spawner": "182725474553986@lid",
+        "spawnTime": 1752305245360,
+        "groupId": "120363418323496817@g.us",
+        "caughtAt": 1752305254656,
+        "trainerId": "182725474553986@lid",
+        "nickname": "Charmander",
+        "happiness": 50
+      },
+      {
+        "name": "Squirtle",
+        "type": "Water",
+        "rarity": "Common",
+        "description": "A tiny turtle Pokemon that can withdraw into its shell for protection.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/7.png",
+        "level": 7,
+        "maxHp": 34,
+        "hp": 34,
+        "attack": 33,
+        "defense": 25,
+        "speed": 22,
+        "exp": 0,
+        "expToNext": 700,
+        "nature": "Naughty",
+        "moves": [
+          {
+            "name": "Water Gun",
+            "power": 40,
+            "type": "Water",
+            "accuracy": 100
+          },
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Bubble",
+            "power": 40,
+            "type": "Water",
+            "accuracy": 100
+          },
+          {
+            "name": "Water Pulse",
+            "power": 60,
+            "type": "Water",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752305332830.9736,
+        "spawner": "182725474553986@lid",
+        "spawnTime": 1752305332830,
+        "groupId": "120363418323496817@g.us",
+        "caughtAt": 1752305345307,
+        "trainerId": "182725474553986@lid",
+        "nickname": "Squirtle",
+        "happiness": 50
+      },
+      {
+        "name": "Lucario",
+        "type": "Fighting/Steel",
+        "rarity": "Rare",
+        "description": "An aura Pokemon that can sense the emotions of creatures over half a mile away.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/448.png",
+        "level": 3,
+        "maxHp": 44,
+        "hp": 44,
+        "attack": 56,
+        "defense": 26,
+        "speed": 28,
+        "exp": 0,
+        "expToNext": 300,
+        "nature": "Hardy",
+        "moves": [
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Growl",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Leer",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752306226760.6252,
+        "spawner": "182725474553986@lid",
+        "spawnTime": 1752306226760,
+        "groupId": "120363402652229385@g.us",
+        "caughtAt": 1752306239388,
+        "trainerId": "182725474553986@lid",
+        "nickname": "Lucario",
+        "happiness": 50
+      },
+      {
+        "name": "Charmander",
+        "type": "Fire",
+        "rarity": "Common",
+        "description": "A fire lizard Pokemon. The flame on its tail shows its emotions.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/4.png",
+        "level": 50,
+        "maxHp": 147,
+        "hp": 147,
+        "attack": 100,
+        "defense": 103,
+        "speed": 86,
+        "exp": 0,
+        "expToNext": 5000,
+        "nature": "Careful",
+        "moves": [
+          {
+            "name": "Ember",
+            "power": 40,
+            "type": "Fire",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Fire Spin",
+            "power": 35,
+            "type": "Fire",
+            "accuracy": 85
+          },
+          {
+            "name": "Flame Wheel",
+            "power": 60,
+            "type": "Fire",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752312560167.8103,
+        "spawner": "182725474553986@lid",
+        "spawnTime": 1752312560167,
+        "groupId": "120363418323496817@g.us",
+        "caughtAt": 1752312566640,
+        "trainerId": "182725474553986@lid",
+        "nickname": "Charmander",
+        "happiness": 50
+      },
+      {
+        "id": "120363418323496817@g.us_1752409896574",
+        "name": "Torchic",
+        "type": "Fire",
+        "rarity": "Common",
+        "level": 46,
+        "hp": 207,
+        "maxHp": 207,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+        "groupId": "120363418323496817@g.us",
+        "spawnTime": 1752409896574,
+        "spawner": "wild",
+        "caughtAt": 1752409929237,
+        "trainerId": "182725474553986@lid",
+        "nickname": "Torchic",
+        "happiness": 50,
+        "nature": "Serious",
+        "moves": [
+          {
+            "name": "Ember",
+            "power": 40,
+            "type": "Fire",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Fire Spin",
+            "power": 35,
+            "type": "Fire",
+            "accuracy": 85
+          },
+          {
+            "name": "Flame Wheel",
+            "power": 60,
+            "type": "Fire",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "caughtWithPokeball": true
+      }
+    ],
+    "13151743570078@lid": [
+      {
+        "name": "Pikachu",
+        "type": "Electric",
+        "rarity": "Common",
+        "description": "A small electric mouse Pokemon that stores electricity in its cheek pouches.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/25.png",
+        "level": 43,
+        "maxHp": 95,
+        "hp": 95,
+        "attack": 66,
+        "defense": 89,
+        "speed": 58,
+        "exp": 0,
+        "expToNext": 4300,
+        "nature": "Naive",
+        "moves": [
+          {
+            "name": "Thunder Shock",
+            "power": 40,
+            "type": "Electric",
+            "accuracy": 100
+          },
+          {
+            "name": "Quick Attack",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Thunder Wave",
+            "power": 0,
+            "type": "Electric",
+            "accuracy": 90
+          },
+          {
+            "name": "Spark",
+            "power": 65,
+            "type": "Electric",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752306497757.8188,
+        "spawner": "13151743570078@lid",
+        "spawnTime": 1752306497757,
+        "groupId": "120363418323496817@g.us",
+        "caughtAt": 1752306502900,
+        "trainerId": "13151743570078@lid",
+        "nickname": "Pikachu",
+        "happiness": 50
+      },
+      {
+        "name": "Charmander",
+        "type": "Fire",
+        "rarity": "Common",
+        "description": "A fire lizard Pokemon. The flame on its tail shows its emotions.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/4.png",
+        "level": 38,
+        "maxHp": 120,
+        "hp": 120,
+        "attack": 46,
+        "defense": 57,
+        "speed": 44,
+        "exp": 0,
+        "expToNext": 3800,
+        "nature": "Modest",
+        "moves": [
+          {
+            "name": "Ember",
+            "power": 40,
+            "type": "Fire",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Fire Spin",
+            "power": 35,
+            "type": "Fire",
+            "accuracy": 85
+          },
+          {
+            "name": "Flame Wheel",
+            "power": 60,
+            "type": "Fire",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752306074607.542,
+        "spawner": "13151743570078@lid",
+        "spawnTime": 1752306074607,
+        "groupId": "120363418323496817@g.us",
+        "caughtAt": 1752306147571,
+        "trainerId": "13151743570078@lid",
+        "nickname": "Charmander",
+        "happiness": 50
+      },
+      {
+        "name": "Charizard",
+        "type": "Fire/Flying",
+        "rarity": "Rare",
+        "description": "A flame Pokemon that spits fire hot enough to melt almost anything.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/6.png",
+        "level": 12,
+        "maxHp": 91,
+        "hp": 91,
+        "attack": 55,
+        "defense": 46,
+        "speed": 51,
+        "exp": 0,
+        "expToNext": 1200,
+        "nature": "Impish",
+        "moves": [
+          {
+            "name": "Ember",
+            "power": 40,
+            "type": "Fire",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Fire Spin",
+            "power": 35,
+            "type": "Fire",
+            "accuracy": 85
+          },
+          {
+            "name": "Flame Wheel",
+            "power": 60,
+            "type": "Fire",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752306199278.9783,
+        "spawner": "13151743570078@lid",
+        "spawnTime": 1752306199278,
+        "groupId": "120363418323496817@g.us",
+        "caughtAt": 1752306265609,
+        "trainerId": "13151743570078@lid",
+        "nickname": "Charizard",
+        "happiness": 50
+      },
+      {
+        "name": "Pikachu",
+        "type": "Electric",
+        "rarity": "Common",
+        "description": "A small electric mouse Pokemon that stores electricity in its cheek pouches.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/25.png",
+        "level": 7,
+        "maxHp": 36,
+        "hp": 36,
+        "attack": 41,
+        "defense": 41,
+        "speed": 44,
+        "exp": 0,
+        "expToNext": 700,
+        "nature": "Careful",
+        "moves": [
+          {
+            "name": "Thunder Shock",
+            "power": 40,
+            "type": "Electric",
+            "accuracy": 100
+          },
+          {
+            "name": "Quick Attack",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Thunder Wave",
+            "power": 0,
+            "type": "Electric",
+            "accuracy": 90
+          },
+          {
+            "name": "Spark",
+            "power": 65,
+            "type": "Electric",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752306365019.9504,
+        "spawner": "13151743570078@lid",
+        "spawnTime": 1752306365019,
+        "groupId": "120363418323496817@g.us",
+        "caughtAt": 1752306372053,
+        "trainerId": "13151743570078@lid",
+        "nickname": "Pikachu",
+        "happiness": 50
+      },
+      {
+        "name": "Pikachu",
+        "type": "Electric",
+        "rarity": "Common",
+        "description": "A small electric mouse Pokemon that stores electricity in its cheek pouches.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/25.png",
+        "level": 3,
+        "maxHp": 52,
+        "hp": 52,
+        "attack": 38,
+        "defense": 37,
+        "speed": 16,
+        "exp": 0,
+        "expToNext": 300,
+        "nature": "Hasty",
+        "moves": [
+          {
+            "name": "Thunder Shock",
+            "power": 40,
+            "type": "Electric",
+            "accuracy": 100
+          },
+          {
+            "name": "Quick Attack",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Thunder Wave",
+            "power": 0,
+            "type": "Electric",
+            "accuracy": 90
+          },
+          {
+            "name": "Spark",
+            "power": 65,
+            "type": "Electric",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752306299498.2097,
+        "spawner": "13151743570078@lid",
+        "spawnTime": 1752306299498,
+        "groupId": "120363418323496817@g.us",
+        "caughtAt": 1752306303448,
+        "trainerId": "13151743570078@lid",
+        "nickname": "Pikachu",
+        "happiness": 50
+      },
+      {
+        "name": "Bulbasaur",
+        "type": "Grass/Poison",
+        "rarity": "Common",
+        "description": "A seed Pokemon with a plant bulb on its back that grows larger with age.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/1.png",
+        "level": 33,
+        "maxHp": 62,
+        "hp": 62,
+        "attack": 68,
+        "defense": 43,
+        "speed": 44,
+        "exp": 0,
+        "expToNext": 3300,
+        "nature": "Hasty",
+        "moves": [
+          {
+            "name": "Vine Whip",
+            "power": 45,
+            "type": "Grass",
+            "accuracy": 100
+          },
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Razor Leaf",
+            "power": 55,
+            "type": "Grass",
+            "accuracy": 95
+          },
+          {
+            "name": "Absorb",
+            "power": 20,
+            "type": "Grass",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752307095969.943,
+        "spawner": "13151743570078@lid",
+        "spawnTime": 1752307095969,
+        "groupId": "120363418323496817@g.us",
+        "caughtAt": 1752307099272,
+        "trainerId": "13151743570078@lid",
+        "nickname": "Bulbasaur",
+        "happiness": 50
+      },
+      {
+        "name": "Bulbasaur",
+        "type": "Grass/Poison",
+        "rarity": "Common",
+        "description": "A seed Pokemon with a plant bulb on its back that grows larger with age.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/1.png",
+        "level": 46,
+        "maxHp": 132,
+        "hp": 132,
+        "attack": 55,
+        "defense": 82,
+        "speed": 42,
+        "exp": 0,
+        "expToNext": 4600,
+        "nature": "Mild",
+        "moves": [
+          {
+            "name": "Vine Whip",
+            "power": 45,
+            "type": "Grass",
+            "accuracy": 100
+          },
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Razor Leaf",
+            "power": 55,
+            "type": "Grass",
+            "accuracy": 95
+          },
+          {
+            "name": "Absorb",
+            "power": 20,
+            "type": "Grass",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752307400223.4753,
+        "spawner": "13151743570078@lid",
+        "spawnTime": 1752307400223,
+        "groupId": "120363418323496817@g.us",
+        "caughtAt": 1752307403993,
+        "trainerId": "13151743570078@lid",
+        "nickname": "Bulbasaur",
+        "happiness": 50
+      },
+      {
+        "name": "Dragonite",
+        "type": "Dragon/Flying",
+        "rarity": "Rare",
+        "description": "A dragon Pokemon capable of circling the globe in 16 hours.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/149.png",
+        "level": 20,
+        "maxHp": 88,
+        "hp": 88,
+        "attack": 75,
+        "defense": 52,
+        "speed": 61,
+        "exp": 0,
+        "expToNext": 2000,
+        "nature": "Calm",
+        "moves": [
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Growl",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Leer",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752307465202.201,
+        "spawner": "13151743570078@lid",
+        "spawnTime": 1752307465202,
+        "groupId": "120363418323496817@g.us",
+        "caughtAt": 1752307539727,
+        "trainerId": "13151743570078@lid",
+        "nickname": "Dragonite",
+        "happiness": 50
+      },
+      {
+        "name": "Pikachu",
+        "type": "Electric",
+        "rarity": "Common",
+        "description": "A small electric mouse Pokemon that stores electricity in its cheek pouches.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/25.png",
+        "level": 8,
+        "maxHp": 55,
+        "hp": 55,
+        "attack": 30,
+        "defense": 30,
+        "speed": 38,
+        "exp": 0,
+        "expToNext": 800,
+        "nature": "Bashful",
+        "moves": [
+          {
+            "name": "Thunder Shock",
+            "power": 40,
+            "type": "Electric",
+            "accuracy": 100
+          },
+          {
+            "name": "Quick Attack",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Thunder Wave",
+            "power": 0,
+            "type": "Electric",
+            "accuracy": 90
+          },
+          {
+            "name": "Spark",
+            "power": 65,
+            "type": "Electric",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752307704662.239,
+        "spawner": "13151743570078@lid",
+        "spawnTime": 1752307704662,
+        "groupId": "120363418323496817@g.us",
+        "caughtAt": 1752307708573,
+        "trainerId": "13151743570078@lid",
+        "nickname": "Pikachu",
+        "happiness": 50
+      }
+    ],
+    "230073412096188@lid": [
+      {
+        "name": "Charizard",
+        "type": "Fire/Flying",
+        "rarity": "Rare",
+        "description": "A flame Pokemon that spits fire hot enough to melt almost anything.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/6.png",
+        "level": 34,
+        "maxHp": 154,
+        "hp": 154,
+        "attack": 56,
+        "defense": 106,
+        "speed": 119,
+        "exp": 0,
+        "expToNext": 3400,
+        "nature": "Quiet",
+        "moves": [
+          {
+            "name": "Ember",
+            "power": 40,
+            "type": "Fire",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Fire Spin",
+            "power": 35,
+            "type": "Fire",
+            "accuracy": 85
+          },
+          {
+            "name": "Flame Wheel",
+            "power": 60,
+            "type": "Fire",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752322694807.169,
+        "spawner": "230073412096188@lid",
+        "spawnTime": 1752322694807,
+        "groupId": "120363418323496817@g.us",
+        "caughtAt": 1752322702199,
+        "trainerId": "230073412096188@lid",
+        "nickname": "Charizard",
+        "happiness": 50
+      }
+    ],
+    "212472703266847@lid": [
+      {
+        "name": "Charmander",
+        "type": "Fire",
+        "rarity": "Common",
+        "description": "A fire lizard Pokemon. The flame on its tail shows its emotions.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/4.png",
+        "level": 48,
+        "maxHp": 104,
+        "hp": 104,
+        "attack": 46,
+        "defense": 58,
+        "speed": 66,
+        "exp": 95,
+        "expToNext": 4800,
+        "nature": "Hasty",
+        "moves": [
+          {
+            "name": "Ember",
+            "power": 40,
+            "type": "Fire",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Fire Spin",
+            "power": 35,
+            "type": "Fire",
+            "accuracy": 85
+          },
+          {
+            "name": "Flame Wheel",
+            "power": 60,
+            "type": "Fire",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752368890830.5896,
+        "spawner": "212472703266847@lid",
+        "spawnTime": 1752368890830,
+        "groupId": "120363418323496817@g.us",
+        "caughtAt": 1752368914254,
+        "trainerId": "212472703266847@lid",
+        "nickname": "Charmander",
+        "happiness": 50
+      },
+      {
+        "name": "Pikachu",
+        "type": "Electric",
+        "rarity": "Common",
+        "description": "A small electric mouse Pokemon that stores electricity in its cheek pouches.",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/25.png",
+        "level": 25,
+        "maxHp": 57,
+        "hp": 57,
+        "attack": 58,
+        "defense": 32,
+        "speed": 58,
+        "exp": 0,
+        "expToNext": 2500,
+        "nature": "Quirky",
+        "moves": [
+          {
+            "name": "Thunder Shock",
+            "power": 40,
+            "type": "Electric",
+            "accuracy": 100
+          },
+          {
+            "name": "Quick Attack",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Thunder Wave",
+            "power": 0,
+            "type": "Electric",
+            "accuracy": 90
+          },
+          {
+            "name": "Spark",
+            "power": 65,
+            "type": "Electric",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "id": 1752368972364.332,
+        "spawner": "212472703266847@lid",
+        "spawnTime": 1752368972364,
+        "groupId": "120363418323496817@g.us",
+        "caughtAt": 1752368983346,
+        "trainerId": "212472703266847@lid",
+        "nickname": "Pikachu",
+        "happiness": 50
+      },
+      {
+        "id": "120363419719135748@g.us_1752370714068",
+        "name": "Drizzile",
+        "type": "Water",
+        "rarity": "Uncommon",
+        "level": 23,
+        "hp": 166,
+        "maxHp": 166,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png",
+        "groupId": "120363419719135748@g.us",
+        "spawnTime": 1752370714068,
+        "spawner": "wild",
+        "caughtAt": 1752370730435,
+        "trainerId": "212472703266847@lid",
+        "nickname": "Drizzile",
+        "happiness": 50,
+        "nature": "Hardy",
+        "moves": [
+          {
+            "name": "Water Gun",
+            "power": 40,
+            "type": "Water",
+            "accuracy": 100
+          },
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Bubble",
+            "power": 40,
+            "type": "Water",
+            "accuracy": 100
+          },
+          {
+            "name": "Water Pulse",
+            "power": 60,
+            "type": "Water",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false
+      },
+      {
+        "id": "120363418323496817@g.us_1752382865432",
+        "name": "Charmeleon",
+        "type": "Fire",
+        "rarity": "Uncommon",
+        "level": 33,
+        "hp": 205,
+        "maxHp": 205,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+        "groupId": "120363418323496817@g.us",
+        "spawnTime": 1752382865432,
+        "spawner": "wild",
+        "caughtAt": 1752382877180,
+        "trainerId": "212472703266847@lid",
+        "nickname": "Charmeleon",
+        "happiness": 50,
+        "nature": "Naive",
+        "moves": [
+          {
+            "name": "Ember",
+            "power": 40,
+            "type": "Fire",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Fire Spin",
+            "power": 35,
+            "type": "Fire",
+            "accuracy": 85
+          },
+          {
+            "name": "Flame Wheel",
+            "power": 60,
+            "type": "Fire",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "caughtWithPokeball": true
+      },
+      {
+        "id": "120363418323496817@g.us_1752382899204",
+        "name": "Doduo",
+        "type": "Normal/Flying",
+        "rarity": "Common",
+        "level": 28,
+        "hp": 194,
+        "maxHp": 194,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+        "groupId": "120363418323496817@g.us",
+        "spawnTime": 1752382899204,
+        "spawner": "wild",
+        "caughtAt": 1752382911860,
+        "trainerId": "212472703266847@lid",
+        "nickname": "Doduo",
+        "happiness": 50,
+        "nature": "Relaxed",
+        "moves": [
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Growl",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Leer",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "caughtWithPokeball": true
+      },
+      {
+        "id": "120363418323496817@g.us_1752383192609",
+        "name": "Grimer",
+        "type": "Poison",
+        "rarity": "Common",
+        "level": 21,
+        "hp": 172,
+        "maxHp": 172,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+        "groupId": "120363418323496817@g.us",
+        "spawnTime": 1752383192609,
+        "spawner": "wild",
+        "caughtAt": 1752383207993,
+        "trainerId": "212472703266847@lid",
+        "nickname": "Grimer",
+        "happiness": 50,
+        "nature": "Jolly",
+        "moves": [
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Growl",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Leer",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "caughtWithPokeball": true
+      }
+    ],
+    "2347049044897@s.whatsapp.net": [
+      {
+        "id": "2347049044897@s.whatsapp.net_1752378467502",
+        "name": "Kartana",
+        "type": "Grass/Steel",
+        "rarity": "Ultra Beast",
+        "level": 21,
+        "hp": 184,
+        "maxHp": 184,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+        "groupId": "2347049044897@s.whatsapp.net",
+        "spawnTime": 1752378467502,
+        "spawner": "2347049044897@s.whatsapp.net",
+        "caughtAt": 1752378483968,
+        "trainerId": "2347049044897@s.whatsapp.net",
+        "nickname": "Kartana",
+        "happiness": 50,
+        "nature": "Sassy",
+        "moves": [
+          {
+            "name": "Vine Whip",
+            "power": 45,
+            "type": "Grass",
+            "accuracy": 100
+          },
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Razor Leaf",
+            "power": 55,
+            "type": "Grass",
+            "accuracy": 95
+          },
+          {
+            "name": "Absorb",
+            "power": 20,
+            "type": "Grass",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "caughtWithPokeball": true,
+        "exp": null
+      },
+      {
+        "id": "2347049044897@s.whatsapp.net_1752378601351",
+        "name": "Arceus",
+        "type": "Normal",
+        "rarity": "Mythical",
+        "level": 36,
+        "hp": 191,
+        "maxHp": 191,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+        "groupId": "2347049044897@s.whatsapp.net",
+        "spawnTime": 1752378601351,
+        "spawner": "2347049044897@s.whatsapp.net",
+        "caughtAt": 1752378615015,
+        "trainerId": "2347049044897@s.whatsapp.net",
+        "nickname": "Arceus",
+        "happiness": 50,
+        "nature": "Hasty",
+        "moves": [
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Growl",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Leer",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "caughtWithPokeball": true
+      },
+      {
+        "id": "2347049044897@s.whatsapp.net_1752379215664",
+        "name": "Groudon",
+        "type": "Ground",
+        "rarity": "Legendary",
+        "level": 23,
+        "hp": 170,
+        "maxHp": 170,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+        "groupId": "2347049044897@s.whatsapp.net",
+        "spawnTime": 1752379215664,
+        "spawner": "2347049044897@s.whatsapp.net",
+        "caughtAt": 1752379448867,
+        "trainerId": "2347049044897@s.whatsapp.net",
+        "nickname": "Groudon",
+        "happiness": 50,
+        "nature": "Careful",
+        "moves": [
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Growl",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Leer",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "caughtWithPokeball": true
+      },
+      {
+        "id": "2347049044897@s.whatsapp.net_1752379584808",
+        "name": "Mewtwo",
+        "type": "Psychic",
+        "rarity": "Mythical",
+        "level": 2,
+        "hp": 112,
+        "maxHp": 112,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+        "groupId": "2347049044897@s.whatsapp.net",
+        "spawnTime": 1752379584808,
+        "spawner": "2347049044897@s.whatsapp.net",
+        "caughtAt": 1752379603482,
+        "trainerId": "2347049044897@s.whatsapp.net",
+        "nickname": "Mewtwo",
+        "happiness": 50,
+        "nature": "Hardy",
+        "moves": [
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Growl",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Scratch",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Leer",
+            "power": 0,
+            "type": "Normal",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "caughtWithPokeball": true
+      },
+      {
+        "id": "2347049044897@s.whatsapp.net_1752382345571",
+        "name": "Slowbro",
+        "type": "Water/Psychic",
+        "rarity": "Rare",
+        "level": 40,
+        "hp": 193,
+        "maxHp": 193,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+        "groupId": "2347049044897@s.whatsapp.net",
+        "spawnTime": 1752382345571,
+        "spawner": "wild",
+        "caughtAt": 1752382364005,
+        "trainerId": "2347049044897@s.whatsapp.net",
+        "nickname": "Slowbro",
+        "happiness": 50,
+        "nature": "Brave",
+        "moves": [
+          {
+            "name": "Water Gun",
+            "power": 40,
+            "type": "Water",
+            "accuracy": 100
+          },
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Bubble",
+            "power": 40,
+            "type": "Water",
+            "accuracy": 100
+          },
+          {
+            "name": "Water Pulse",
+            "power": 60,
+            "type": "Water",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "caughtWithPokeball": true
+      },
+      {
+        "id": "2347049044897@s.whatsapp.net_1752418955962",
+        "name": "Weepinbell",
+        "type": "Grass/Poison",
+        "rarity": "Uncommon",
+        "level": 13,
+        "hp": 136,
+        "maxHp": 136,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+        "groupId": "2347049044897@s.whatsapp.net",
+        "spawnTime": 1752418955962,
+        "spawner": "wild",
+        "caughtAt": 1752418961823,
+        "trainerId": "2347049044897@s.whatsapp.net",
+        "nickname": "Weepinbell",
+        "happiness": 50,
+        "nature": "Serious",
+        "moves": [
+          {
+            "name": "Vine Whip",
+            "power": 45,
+            "type": "Grass",
+            "accuracy": 100
+          },
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Razor Leaf",
+            "power": 55,
+            "type": "Grass",
+            "accuracy": 95
+          },
+          {
+            "name": "Absorb",
+            "power": 20,
+            "type": "Grass",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false
+      }
+    ],
+    "262225570824231@lid": [
+      {
+        "id": "120363418323496817@g.us_1752409947411",
+        "name": "Treecko",
+        "type": "Grass",
+        "rarity": "Common",
+        "level": 11,
+        "hp": 154,
+        "maxHp": 167,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+        "groupId": "120363418323496817@g.us",
+        "spawnTime": 1752409947411,
+        "spawner": "wild",
+        "caughtAt": 1752409957357,
+        "trainerId": "262225570824231@lid",
+        "nickname": "Treecko",
+        "happiness": 50,
+        "nature": "Brave",
+        "moves": [
+          {
+            "name": "Vine Whip",
+            "power": 45,
+            "type": "Grass",
+            "accuracy": 100
+          },
+          {
+            "name": "Tackle",
+            "power": 40,
+            "type": "Normal",
+            "accuracy": 100
+          },
+          {
+            "name": "Razor Leaf",
+            "power": 55,
+            "type": "Grass",
+            "accuracy": 95
+          },
+          {
+            "name": "Absorb",
+            "power": 20,
+            "type": "Grass",
+            "accuracy": 100
+          }
+        ],
+        "isShiny": false,
+        "caughtWithPokeball": true
+      }
+    ]
+  },
+  "playerStats": {
+    "182725474553986@s.whatsapp.net": {
+      "wins": 0,
+      "losses": 0,
+      "battles": 0,
+      "pokemonCaught": 0,
+      "trainingCount": 0,
+      "triviaPlayed": 1,
+      "triviaCorrect": 1,
+      "triviaPoints": 10
+    },
+    "182725474553986@lid": {
+      "wins": 0,
+      "losses": 1,
+      "battles": 1,
+      "pokemonCaught": 6,
+      "trainingCount": 0,
+      "party": [
+        1752306440186.4778
+      ],
+      "pokeballs": 9,
+      "lastPokeballClaim": 1752409914527,
+      "dailyStreak": 2,
+      "totalPokeballsClaimed": 10,
+      "pokeballCatches": 1,
+      "gold": 4005,
+      "lastDaily": 1752843445345,
+      "lastHeal": 1752844508023
+    },
+    "13151743570078@lid": {
+      "wins": 1,
+      "losses": 0,
+      "battles": 1,
+      "pokemonCaught": 9,
+      "trainingCount": 0,
+      "gold": 498,
+      "battlesWon": 2,
+      "party": [
+        1752306497757.8188,
+        1752306199278.9783,
+        1752306299498.2097,
+        1752307400223.4753
+      ]
+    },
+    "230073412096188@lid": {
+      "wins": 0,
+      "losses": 0,
+      "battles": 0,
+      "pokemonCaught": 1,
+      "trainingCount": 0,
+      "party": [
+        1752322694807.169
+      ],
+      "lastHeal": 1752323473053
+    },
+    "212472703266847@lid": {
+      "wins": 0,
+      "losses": 0,
+      "battles": 0,
+      "pokemonCaught": 6,
+      "trainingCount": 1,
+      "party": [
+        "120363418323496817@g.us_1752382865432",
+        1752368972364.332,
+        "120363418323496817@g.us_1752383192609",
+        1752368890830.5896
+      ],
+      "lastHeal": 1752451236476,
+      "pokeballs": 5,
+      "lastPokeballClaim": 1752382786153,
+      "dailyStreak": 2,
+      "totalPokeballsClaimed": 10,
+      "pokeballCatches": 3,
+      "gold": 39,
+      "lastDaily": 1752419416703,
+      "inventory": {
+        "miniball": 2
+      },
+      "gamesPlayed": 3,
+      "gamesWon": 2,
+      "robsAttempted": 1,
+      "battlesWon": 1
+    },
+    "2347049044897@s.whatsapp.net": {
+      "wins": 0,
+      "losses": 0,
+      "battles": 0,
+      "pokemonCaught": 6,
+      "trainingCount": 1,
+      "pokeballs": 0,
+      "lastPokeballClaim": 1752378260630,
+      "dailyStreak": 2,
+      "totalPokeballsClaimed": 10,
+      "pokeballCatches": 5,
+      "party": [
+        "2347049044897@s.whatsapp.net_1752378467502",
+        "2347049044897@s.whatsapp.net_1752378601351",
+        "2347049044897@s.whatsapp.net_1752379215664"
+      ],
+      "gold": 1000026,
+      "lastDaily": 1752416036721,
+      "gamesPlayed": 3,
+      "gamesWon": 2
+    },
+    "262225570824231@lid": {
+      "wins": 0,
+      "losses": 0,
+      "battles": 0,
+      "pokemonCaught": 1,
+      "trainingCount": 0,
+      "pokeballs": 8,
+      "lastPokeballClaim": 1752409829666,
+      "dailyStreak": 1,
+      "totalPokeballsClaimed": 10,
+      "pokeballCatches": 1,
+      "gold": 120,
+      "party": []
+    },
+    "2349013531862@s.whatsapp.net": {
+      "wins": 0,
+      "losses": 0,
+      "battles": 0,
+      "pokemonCaught": 0,
+      "trainingCount": 0,
+      "gold": 110,
+      "lastDaily": 1752446871648,
+      "dailyStreak": 1
+    },
+    "2349122222622@s.whatsapp.net": {
+      "wins": 0,
+      "losses": 0,
+      "battles": 0,
+      "pokemonCaught": 0,
+      "trainingCount": 0,
+      "gold": 110,
+      "lastDaily": 1752772529481,
+      "dailyStreak": 1
+    },
+    "135343512789115@lid": {
+      "wins": 0,
+      "losses": 0,
+      "battles": 0,
+      "pokemonCaught": 0,
+      "trainingCount": 0,
+      "gold": 110,
+      "lastDaily": 1752818473365,
+      "dailyStreak": 1
+    },
+    "88863276015816@lid": {
+      "wins": 0,
+      "losses": 0,
+      "battles": 0,
+      "pokemonCaught": 0,
+      "trainingCount": 0,
+      "gold": 115,
+      "lastDaily": 1752841809189,
+      "dailyStreak": 1
+    },
+    "2348123600460@s.whatsapp.net": {
+      "wins": 0,
+      "losses": 0,
+      "battles": 0,
+      "pokemonCaught": 0,
+      "trainingCount": 0,
+      "gold": 110,
+      "lastDaily": 1752843124117,
+      "dailyStreak": 1
+    },
+    "133470923825314@lid": {
+      "wins": 0,
+      "losses": 0,
+      "battles": 0,
+      "pokemonCaught": 0,
+      "trainingCount": 0,
+      "gold": 200,
+      "lastDaily": 1752936417061,
+      "dailyStreak": 1
+    },
+    "20470502023420@lid": {
+      "wins": 0,
+      "losses": 0,
+      "battles": 0,
+      "pokemonCaught": 0,
+      "trainingCount": 0,
+      "gold": 110,
+      "lastDaily": 1752936728756,
+      "dailyStreak": 1
+    }
+  },
+  "playerLeaderboard": {}
+}
